@@ -27,7 +27,7 @@ use InfluxDB2\Client;
 use InfluxDB2\Model\WritePrecision;
 
 /**
- * Trait Telemeter
+ * Trait Telemeter.
  *
  * @package Seat\Eveapi\Traits
  */
